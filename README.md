@@ -14,7 +14,7 @@ Backend Developer | FastAPI | Node.js | PostgreSQL | System Design
 - 🔭 Currently building **Scalable Backend APIs & Full Stack Applications**
 - 🌱 Learning **System Design, DevOps & Cloud Architecture**
 - 💡 Interested in **Backend Engineering, Secure APIs & Real-time Systems**
-- 💬 Ask me about **Python, FastAPI, Node.js, SQL, REST APIs**
+- 💬 Ask me about **Python, Next.js, FastAPI, Node.js, SQL, REST APIs**
 - 📫 Reach me: **sangeethr048@email.com**
 - ⚡ Fun fact: I enjoy solving **DSA & LeetCode problems**
 
